@@ -8,6 +8,7 @@ public class Rote : MonoBehaviour
     //指定角度
     private float Angle;
     public AnimationCurve Curve;
+
     void Awake()
     {
         //Keyframe[] ks = new Keyframe[3];
